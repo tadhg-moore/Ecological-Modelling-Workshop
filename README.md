@@ -1,5 +1,8 @@
 # Building and Running an Aquatic Ecosystem Model Ensemble in R
 
+> ℹ️ **Info:** Workshop materials are still currently being updated.
+> Please check back later for the latest version.
+
 --------------------------------------------------------------------------------
 
 :spiral_calendar: July 23, 2025\
