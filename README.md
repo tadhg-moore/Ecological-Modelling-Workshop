@@ -9,7 +9,7 @@
 :alarm_clock: 19:00 - 21:00 UTC :busts_in_silhouette: Tadhg Moore, Whitney Woelmer & Deniz Özkundakci\
 :computer: [Material](https://github.com/tadhg-moore/Ecological-Modelling-Workshop)
 :open_book:
-[Presentation]()
+[Presentation](https://docs.google.com/presentation/d/e/2PACX-1vSnuZRU60QIKCpXdnhWJCNwOLI1xTPusY_AGQRkk9qEtJNvN-diVZGJbd26YHdnQAovjhoGCkh3CiR6/pub?start=true&loop=false&delayms=5000)
 
 --------------------------------------------------------------------------------
 
